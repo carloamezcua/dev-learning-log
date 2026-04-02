@@ -1,32 +1,49 @@
 # Dev Learning Log
 
-Personal repository to track my progress and exercises as I learn software development. Each folder corresponds to a course or learning resource, containing notes, assessments, and code exercises.
+Personal repository to track progress, notes, and hands-on exercises while learning software development.
+
+## Overview
+
+This repo currently focuses on the **Complete Python 3 Bootcamp** learning path, organized by type of material:
+
+- `assestments/`: graded-style assessments
+- `exercises/`: practice exercises
+- `notebooks/`: scratch or exploration notebooks
 
 ## Repository Structure
 
-```
+```text
 dev-learning-log/
+├── README.md
 └── complete-python-3-bootcamp/
-    └── assestments/
-        └── 09-Objects and Data Structures Assessment Test.ipynb
+    ├── assestments/
+    │   ├── 01-Objects and Data Structures Assessment Test.ipynb
+    │   └── 02-Statements Assessment Test.ipynb
+    ├── exercises/
+    │   └── 03-Function Practice Exercises.ipynb
+    └── notebooks/
+        └── test.ipynb
 ```
 
-## Courses
+## Course Progress
 
 ### Complete Python 3 Bootcamp
 
-Exercises and assessments from the [Complete Python 3 Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) course.
+Source course: [Complete Python 3 Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 
-**Completed assessments:**
+Current tracked notebooks:
 
-| # | Assessment | Topics |
-|---|-----------|--------|
-| 09 | Objects and Data Structures | Numbers, Strings, Lists, Tuples, Dictionaries |
+| Type | Notebook | Status |
+|---|---|---|
+| Assessment | 01-Objects and Data Structures Assessment Test.ipynb | Done |
+| Assessment | 02-Statements Assessment Test.ipynb | Done |
+| Exercise | 03-Function Practice Exercises.ipynb | Done |
+| Notebook | test.ipynb | Sandbox |
 
 ## Tech Stack
 
 - Python 3
-- Jupyter Notebooks
+- Jupyter Notebook
 
 ## Author
 
