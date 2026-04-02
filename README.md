@@ -8,6 +8,7 @@ This repo currently focuses on the **Complete Python 3 Bootcamp** learning path,
 
 - `assestments/`: graded-style assessments
 - `exercises/`: practice exercises
+- `homework/`: homework notebooks from course sections
 - `notebooks/`: scratch or exploration notebooks
 
 ## Repository Structure
@@ -21,7 +22,10 @@ dev-learning-log/
     │   └── 02-Statements Assessment Test.ipynb
     ├── exercises/
     │   └── 03-Function Practice Exercises.ipynb
+    ├── homework/
+    │   └── 08-Functions and Methods Homework.ipynb
     └── notebooks/
+        ├── nested-statements-scope.ipynb
         ├── test.ipynb
         └── lambda-map-filter.ipynb
 ```
@@ -39,7 +43,9 @@ Current tracked notebooks:
 | Assessment | 01-Objects and Data Structures Assessment Test.ipynb | Done |
 | Assessment | 02-Statements Assessment Test.ipynb | Done |
 | Exercise | 03-Function Practice Exercises.ipynb | Done |
+| Homework | 08-Functions and Methods Homework.ipynb | Done |
 | Notebook | lambda-map-filter.ipynb | Done |
+| Notebook | nested-statements-scope.ipynb | Done |
 | Notebook | test.ipynb | Sandbox |
 
 ## Tech Stack
