@@ -22,7 +22,8 @@ dev-learning-log/
     ├── exercises/
     │   └── 03-Function Practice Exercises.ipynb
     └── notebooks/
-        └── test.ipynb
+        ├── test.ipynb
+        └── lambda-map-filter.ipynb
 ```
 
 ## Course Progress
