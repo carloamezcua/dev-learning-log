@@ -38,6 +38,7 @@ Current tracked notebooks:
 | Assessment | 01-Objects and Data Structures Assessment Test.ipynb | Done |
 | Assessment | 02-Statements Assessment Test.ipynb | Done |
 | Exercise | 03-Function Practice Exercises.ipynb | Done |
+| Notebook | lambda-map-filter.ipynb | Done |
 | Notebook | test.ipynb | Sandbox |
 
 ## Tech Stack
